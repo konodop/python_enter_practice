@@ -7,4 +7,4 @@
 ``` "Hello world!" ```
 
 И создал файл для блок-схем
-<img src="https://github.com/konodop/python_enter_practice/image.png">
+<img src="https://github.com/konodop/python_enter_practice/blob/main/image.png">
